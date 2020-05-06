@@ -1,5 +1,6 @@
 [Jack the Fishman](https://github.com/janekx21/JackTheFishman/wiki/Jack-the-Fishman) Framework Wiki
 
 ## Navigation
+- [Jack the Fishman](https://github.com/janekx21/JackTheFishman/wiki/Jack-the-Fishman)
 - [Game Ideas](https://github.com/janekx21/JackTheFishman/wiki/Game-Ideas)
 

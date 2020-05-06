@@ -1,12 +1,12 @@
-# What
+## What
 Jack the Fishman is a 3D game framework.
 We ship a game as a demo.
 
-# Why
+## Why
 Jack the Fishman was build for learning. It is a UNI Project.
 
-# How
+## How
 Kotlin + LWJGL using Github for VC, Issue Management and Documentation
 
-# Who
+## Who
 look at the contributers

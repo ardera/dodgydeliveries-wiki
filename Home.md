@@ -1,1 +1,1 @@
-Welcome to the JackTheFishman wiki!
+Jack the Fishman Framework

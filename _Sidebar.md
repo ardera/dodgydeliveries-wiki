@@ -1,4 +1,4 @@
-### Game Design Overview
+### Game-Design
 
 - [Kurzbeschreibung]()
 - [Mechaniken]()

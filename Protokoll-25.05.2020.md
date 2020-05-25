@@ -3,7 +3,7 @@
 ### Action Points
 - [ ] gdo zum Wiki umziehen @hannes
 - [ ] branches aufräumen @janek
-- [ ] issue tracker zeigen @alle
+- [x] issue tracker zeigen @alle
 - [ ] zoom meeting einrichten @arne
 - [ ] bei jedem das projekt installieren @alle
 

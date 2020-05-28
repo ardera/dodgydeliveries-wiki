@@ -1,3 +1,4 @@
+Beim Händler kaufbar:
 * Schutzschilde (unverwundbar)
 * Slow Motion
 * Wegpusten von Projektilen mit Ventilator
@@ -7,3 +8,6 @@
   * Sofort Heilung
   * Heilung, wenn man Damage nimmt
 * Bombe, die Feinde im Umkreis zerstört
+
+Im Tunnel aufhebbar:
+* kleinere Wertobjekte, die man bei Händlern verkaufen kann

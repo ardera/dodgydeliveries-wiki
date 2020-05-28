@@ -6,3 +6,4 @@
 * Heilitems
   * Sofort Heilung
   * Heilung, wenn man Damage nimmt
+* Bombe, die Feinde im Umkreis zerstört

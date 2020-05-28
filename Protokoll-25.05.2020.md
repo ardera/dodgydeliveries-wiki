@@ -1,7 +1,7 @@
 ### Entscheidungen
 
 ### Action Points
-- [ ] gdo zum Wiki umziehen @hannes
+- [x] gdo zum Wiki umziehen @hannes
 - [ ] branches aufräumen @janek
 - [x] issue tracker zeigen @alle
 - [x] zoom meeting einrichten @arne

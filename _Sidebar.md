@@ -5,5 +5,6 @@
 - [Story](https://github.com/janekx21/JackTheFishman/wiki/Story)
 - [Spieldesign](https://github.com/janekx21/JackTheFishman/wiki/Spieldesign)
 - [Steuerung](https://github.com/janekx21/JackTheFishman/wiki/Steuerung)
+- [Tech](https://github.com/janekx21/JackTheFishman/wiki/Tech)
 - [Zeitplan](https://github.com/janekx21/JackTheFishman/wiki/Zeitplan)
 - [Issue-Management](https://github.com/janekx21/JackTheFishman/wiki/Issue-Management)

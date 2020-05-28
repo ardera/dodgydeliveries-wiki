@@ -1,6 +1,8 @@
 # Aussehen
-## Fahrzeug
-* Motorrad
+## Fahrzeug (Skins?)
+* Fliegender Teppich
+* Heruntergekommenes Einsitzerraumschiff
+* Alter Fiat mit Flügeln (rangetapt)
 * Fliegendes Mopped - siehe Raumschiff Surprise - mit Box hinten drauf
 ## Spieler
 

@@ -6,3 +6,4 @@
 - [Spieldesign](https://github.com/janekx21/JackTheFishman/wiki/Spieldesign)
 - [Steuerung](https://github.com/janekx21/JackTheFishman/wiki/Steuerung)
 - [Zeitplan](https://github.com/janekx21/JackTheFishman/wiki/Entwicklungs-Zeitplan)
+- [Issue-Management](https://github.com/janekx21/JackTheFishman/wiki/Issue-Management)

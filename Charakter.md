@@ -1,7 +1,7 @@
-## Aussehen
-# Fahrzeug
+# Aussehen
+## Fahrzeug
 
-# Spieler
+## Spieler
 
-## Perks/Eigenschaften
+# Perks/Eigenschaften
 * Rucksack mit unterschiedlichen Größen

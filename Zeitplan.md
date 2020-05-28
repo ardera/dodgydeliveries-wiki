@@ -1,3 +1,8 @@
+## MVP
+- funktionierendes Bullet-Hell game mit Tunneln im 3D Stil
+- keine Story
+- keine "Städte"
+
 ## Meilensteine
 - Dodge - Gameplay
 - Camps - Gameplay

@@ -1,4 +1,5 @@
-Beim Händler kaufbar:
+## Beim Händler kaufbar:
+### Itemideen
 * Schutzschilde (unverwundbar)
 * Slow Motion
 * Wegpusten von Projektilen mit Ventilator
@@ -11,3 +12,6 @@ Beim Händler kaufbar:
 
 Im Tunnel aufhebbar:
 * kleinere Wertobjekte, die man bei Händlern verkaufen kann
+
+### Kaufbedingungen
+* Ansehen beim Händler

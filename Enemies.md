@@ -3,3 +3,4 @@ Lebendige Gegner:
 
 Nicht-lebendige Gegner:
 - Kugeln oder so
+- Beschleunigt Projektile mit Portal oder so

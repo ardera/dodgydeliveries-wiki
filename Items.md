@@ -1,4 +1,4 @@
-* Schutzschilde
+* Schutzschilde (unverwundbar)
 * Slow Motion
 * Wegpusten von Projektilen mit Ventilator
 * Beschleunigung

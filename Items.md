@@ -12,12 +12,16 @@
 * Bombe (die Feinde im Umkreis zerstört) einmalig
 * Feder (Springt und verlässt die Ebene) läd auf
 * Hupe (alle ängstlichen Feinde fliehen) einmalig
-* Musik Box (...)
-* Turbo (speed boost) dauerhaft
+* Musik Box (schiebt Gegner weg die nach an einem sind)
+* Turbo (speed up) dauerhaft
 * Laser Kanone (kleine Projektile verschwinden zufällig selten) dauerhaft
+* Magnet (zieht Ressourcen an) dauerhaft
+* Hufeisen (wenn man sterben würde, 30% Chance zu überleben) dauerhaft
+* Koffer (halbes leben aber doppelte Ressourcen) einmal pro Level
+* Dritter Arm (wie ein Herzkontainer) dauerhaft
 
 Im Tunnel aufhebbar:
-* kleinere Wertobjekte, die man bei Händlern verkaufen kann
+* kleinere Wertobjekte, die man bei Händlern verkaufen kann aka Ressourcen
   * Goldmünzen
   * seltene Pflanzen
   * Monsterteile / Souvenir

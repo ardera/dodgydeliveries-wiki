@@ -8,13 +8,13 @@
 * Heilitems
   * kleines Herz (Sofort Heilung nach Aktivierung) einmalig
   * ? (Heilung, wenn man Damage nimmt) einmalig
+  * Medipack (an bestimmten Stellen im Level kann leben regeneriert werden | durchs stehenbleiben) dauerhaft
 * Bombe (die Feinde im Umkreis zerstört) einmalig
 * Feder (Springt und verlässt die Ebene) läd auf
 * Hupe (alle ängstlichen Feinde fliehen) einmalig
 * Musik Box (...)
 * Turbo (speed boost) dauerhaft
 * Laser Kanone (kleine Projektile verschwinden zufällig selten) dauerhaft
-* 
 
 Im Tunnel aufhebbar:
 * kleinere Wertobjekte, die man bei Händlern verkaufen kann

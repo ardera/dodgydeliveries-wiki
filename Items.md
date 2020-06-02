@@ -12,6 +12,9 @@
 * Feder (Springt und verlässt die Ebene) läd auf
 * Hupe (alle ängstlichen Feinde fliehen) einmalig
 * Musik Box (...)
+* Turbo (speed boost) dauerhaft
+* Laser Kanone (kleine Projektile verschwinden zufällig selten) dauerhaft
+* 
 
 Im Tunnel aufhebbar:
 * kleinere Wertobjekte, die man bei Händlern verkaufen kann

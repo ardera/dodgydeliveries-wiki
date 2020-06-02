@@ -19,6 +19,7 @@
 * Hufeisen (wenn man sterben würde, 30% Chance zu überleben) dauerhaft
 * Koffer (halbes leben aber doppelte Ressourcen) einmal pro Level
 * Dritter Arm (wie ein Herzkontainer) dauerhaft
+* Pille (schupfen für eine kurze zeit) einmalig
 
 Im Tunnel aufhebbar:
 * kleinere Wertobjekte, die man bei Händlern verkaufen kann aka Ressourcen

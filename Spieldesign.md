@@ -2,7 +2,7 @@
 - Diese Camps, sind durch Tunnel, Höhlen und Röhren miteinander verbunden. Sämtliche Gegner befinden sich in diesen Tunneln, wodurch auch die ganze Action dort stattfinden wird.
 - In den Camps erhält man wichtige Hinweise und Aufträge, die einen in den meisten fällen zu anderen Camps leiten. Um dorthin zu gelangen muss man den Weg durch einen oder mehrere Tunnel nehmen, wodurch die mechanics gleichmäßig miteinander verbunden werden sollen.
 
-## Vereinfachter Mapaufbau
+## Vereinfachter Map-/Spiel-Aufbau (Tokens)
 
 ### Camps
 - sind Orte die zivilisiert sind
@@ -15,3 +15,21 @@
 ### Tubes
 - haupt Gameplay
 - nicht zivilisiert
+
+### Shop
+- Kaufen von Gegenständen via Geld
+
+### Quests
+- **sehr** einfach Aufgaben
+
+### Upgrades
+- sind quasi Items aber liegen nicht im Inventar
+
+### Story Time
+- Interaktion mit Charakteren
+
+### Hindernisse
+- können dem Spieler HP abziehen
+
+### Gegner
+- Sind wie Hindernisse die sich bewegen 

@@ -23,6 +23,11 @@ Man reist in die falschen Zeiten.
 Zeitportale sind nur am Ende des Levels.
 Man sieht die Portale vom Anfang des Levels und muss diese erreichen.
 Man hofft im Portal in die richtige Zeit zu reisen. Ende. Freund in Wirklichkeit böse?
+#### Ending Ideen
+- Man bekommt das Geld zusammen aber der Hooligan gibt alles in der Gefängnisbar für Bier aus anstatt sich freizukaufen (quasi lustiges bad ending).
+- Die Leute, die ihn gefangen haben sind der Grund für die Wesen in den Tunneln. Man deckt das Ganze auf und es gibt einen Aufstand.
+- Der MC kommt auf die Idee nur die Hälfte zu sammeln und das Geld im Casino zu verdoppeln --> RNG entscheidet über good/bad ending.
+- Die Wesen in den Tunneln sind quasi Insekten. Man findet zufällig die Höhle, in der sich das Nest befindet und zündet es an. --> Reisen ist nicht mehr gefährlich und man wird als Held gefeiert (der Hooligan wird daraufhin freigelassen).
 ### Level
 #### Anfangslevel
 Freund wird vor den eigenen Augen entführt

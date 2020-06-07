@@ -33,3 +33,27 @@
 
 ### Gegner
 - Sind wie Hindernisse die sich bewegen 
+
+## Projektil Arten
+- Basic
+  - fliegt in die initial Richtung mit konstanter Speed
+  - hoher schaden
+- Wobble
+  - fliegt mit Sinuskurve
+  - recht langsam
+- Short
+  - wie Basic aber mit geringer Lebenserwartung
+- Firework
+  - erst wie basic dann explodiert es
+  - dabei werden weitere Short gespawned
+- Sideburner
+  - wie Firework aber es werden nur Short zur Seite gefeuert
+  - nur Horizontal
+- Laser
+  - lebt sehr kurz
+  - komplett vertikal
+  - mit Telegraph
+- Flame
+  - wie Short aber mit breiter Fächerung
+
+> Telegraph ist ein Zeichen vor der Aktion (Audio oder Visuell)

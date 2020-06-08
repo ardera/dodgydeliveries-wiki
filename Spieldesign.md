@@ -56,4 +56,9 @@
 - Flame
   - wie Short aber mit breiter Fächerung
 
+###Design Idee
+- Steinfelsen
+- Gegner werfen mit Abfall/Metallschrott(Rohre, Zahnräder, Reifen)
+- Stalaktiten, die herunter fallen
+
 > Telegraph ist ein Zeichen vor der Aktion (Audio oder Visuell)

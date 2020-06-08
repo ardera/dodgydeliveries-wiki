@@ -56,7 +56,7 @@
 - Flame
   - wie Short aber mit breiter Fächerung
 
-###Design Idee
+### Design Idee
 - Steinfelsen
 - Gegner werfen mit Abfall/Metallschrott(Rohre, Zahnräder, Reifen)
 - Stalaktiten, die herunter fallen

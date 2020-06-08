@@ -13,9 +13,13 @@
 - [x] Aufgaben aus den Ideen erstellen -> Mit Prioriäten versehen
 
 ## 04.06.2020
-- [ ] Storyende überlegen @bennet
+- [x] Storyende überlegen @bennet
 - [ ] anfangen nen Charakter zu erstellen mit live feedback (Telegram) @janek
-- [ ] Design von Camps + Städte @arne
-- [ ] Design von Häusern und Strukturen @hannes
-- [ ] Projektilarten Gameplay @janek
-- [ ] Projektilarten Design (Aussehen) @arne
+- [ ] Design von Camps + Städte (Schreiben und Zeichnen bitte) @arne
+- [x] Design von Häusern und Strukturen @hannes
+- [x] Projektilarten Gameplay @janek
+- [x] Projektilarten Design (Aussehen) @arne
+
+## 08.06.2020
+- [ ] Stil Test @janek
+- [ ] Lösung für das Pressesatiren des Wiki's @hannes

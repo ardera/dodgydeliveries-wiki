@@ -4,8 +4,8 @@
 - Kamera folgt dem Spieler
 
 ### Steuerung
-- nicht an "Felder" gelockt
-- in dem Bereich frei beweglich
+- Spieler ist nicht an "Felder" gelockt
+- in dem Bereich frei bewegbar
 
 ### Aufbau
 - großer Raum, der durch Felsen begrenzt ist

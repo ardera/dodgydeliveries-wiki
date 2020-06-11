@@ -22,4 +22,4 @@
 
 ## 08.06.2020
 - [ ] Stil Test @janek
-- [ ] Lösung für das Pressesatiren des Wiki's @hannes
+- [x] Lösung für das Pressesatiren des Wiki's @hannes

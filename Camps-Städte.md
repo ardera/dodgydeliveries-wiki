@@ -17,6 +17,7 @@
 - ebenfalls in der Farbpalette des Tunnelgameplays
 
 Beispielhaus:
+
 ![](https://static.miraheze.org/allthetropeswiki/3/38/Kakarikovillage.gif)
 
 ### Interaktion

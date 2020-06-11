@@ -7,6 +7,11 @@
 - Spieler ist nicht an "Felder" gelockt
 - in dem Bereich frei bewegbar
 
+<details> 
+  <summary>Q1: What is the best Language in the World? </summary>
+   A1: JavaScript 
+</details>
+
 ### Aufbau
 - großer Raum, der durch Felsen begrenzt ist
 - alle Häuser befinden sich in diesem Raum

@@ -3,11 +3,10 @@
 <details> 
   <summary>Three-Quarters View</summary>
    A method of portraying three dimensional space in a two-dimensional plane. Basically, it's a tilted bird's eye view perspective in which both the top and front of an object is seen at the same time, and the vertical axis indicates both height and depth.
-- example
-<ul>
+<ol style="list-style:upper-roman">
 <li>Pokémon</li>
 <li>Zelda until the debut of The Legend of Zelda Ocarina of Time</li>
-</ul>
+</ol>
 </details>
 
 - Kamera folgt dem Spieler

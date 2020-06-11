@@ -20,6 +20,7 @@
 ### Aufbau
 - großer Raum, der durch Felsen begrenzt ist
 - alle Häuser befinden sich in diesem Raum
+- es gibt mehrere Ausgänge, durch die man die Tunnel betritt
 
 ![](https://pokemonexperte.de/frbg/wandelhoehle.png.pagespeed.ce.X2Ajthpa1P.png)
 

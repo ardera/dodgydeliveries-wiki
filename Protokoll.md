@@ -14,7 +14,7 @@
 
 ## 04.06.2020
 - [x] Storyende überlegen @bennet
-- [ ] anfangen nen Charakter zu erstellen mit live feedback (Telegram) @janek
+- [ ] anfangen nen Charakter zu erstellen mit live feedback (Telegram) @janek/@arne
 - [x] Design von Camps + Städte (Schreiben und Zeichnen bitte) @arne
 - [x] Design von Häusern und Strukturen @hannes
 - [x] Projektilarten Gameplay @janek
@@ -23,3 +23,5 @@
 ## 08.06.2020
 - [ ] Stil Test @janek
 - [x] Lösung für das Pressesatiren des Wiki's @hannes
+
+## 15.06.2020

@@ -29,3 +29,4 @@
 ## 22.06.2020
 - [ ] Wiki Seite über `PhysicsComponent` @bennet
 - [ ] Wiki Seite über Gegener Konzepte @bennet
+- [ ] Sprint Board via Projekt abbilden @janek

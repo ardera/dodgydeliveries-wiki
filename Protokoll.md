@@ -25,3 +25,6 @@
 - [x] Lösung für das Pressesatiren des Wiki's @hannes
 
 ## 15.06.2020
+
+## 22.06.2020
+- [ ] Wiki Seite über `PhysicsComponent` @bennet

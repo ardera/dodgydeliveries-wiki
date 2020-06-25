@@ -3,7 +3,7 @@ Enthält im Grunde Velocity und Collision
 Velocity:
 Kann mit getSpeed ausgegeben werden.
 Kann mit setVel verändert werden. setVel nimmt einen Vector2fc entgegen.
-Die in jedem update wird 1/60 der Geschwindigkeit auf die Position draufgerechnet (also der komplette Vektor pro sekunde bei 60fps)
+In jedem update wird Geschwindigkeit * Deltatime auf die Position draufgerechnet (also der komplette Vektor pro sekunde bei 60fps)
 
 Collision:
 Kann mit getCollider ausgegeben werden.

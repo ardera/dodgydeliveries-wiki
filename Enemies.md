@@ -9,8 +9,8 @@ Gegner Design:
 Feinde des Kraken (Haie und Aale)
 Haie Spawnen die Projektile, anderes Projektil je nach Hai
 
-Normaler Hai, normaler Schuss (entweder einfach ne Kugel oder Hai-Ei)
-Hammerhai, spawnt den Aal (wobble Gegner, siehe Game Ideas Page)
-Katzenhai, = Laserhai
-Laternenfisch, schickt eine Leuchtkugel los, die keinen Schaden verursacht (soll ablenken)
-Waalhai, Explosives; spalten sich auf mehrere Lanes auf
+- Normaler Hai, normaler Schuss (entweder einfach ne Kugel oder Hai-Ei)
+- Hammerhai, spawnt den Aal (wobble Gegner, siehe Game Ideas Page)
+- Katzenhai, = Laserhai
+- Laternenfisch, schickt eine Leuchtkugel los, die keinen Schaden verursacht (soll ablenken)
+- Waalhai, Explosives; spalten sich auf mehrere Lanes auf

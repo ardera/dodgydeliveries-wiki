@@ -29,4 +29,7 @@
 ## 22.06.2020
 - [x] Wiki Seite über `PhysicsComponent` @bennet
 - [x] Wiki Seite über Gegener Konzepte @bennet
-- [ ] Sprint Board via Projekt abbilden @janek
+
+## 29.06.2020
+- [x] einzelne Projekte für unterschiedliche Gameplays @hannes
+- [ ] issues für gegner @bennet

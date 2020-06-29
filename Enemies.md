@@ -13,4 +13,4 @@ Haie Spawnen die Projektile, anderes Projektil je nach Hai
 - Hammerhai, spawnt den Aal (wobble Gegner, siehe Game Ideas Page)
 - Katzenhai, = Laserhai
 - Laternenfisch, schickt eine Leuchtkugel los, die keinen Schaden verursacht (soll ablenken)
-- Waalhai, Explosives; spalten sich auf mehrere Lanes auf
+- Walhai, Explosives; spalten sich auf mehrere Lanes auf

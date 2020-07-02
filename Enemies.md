@@ -14,3 +14,15 @@ Haie Spawnen die Projektile, anderes Projektil je nach Hai
 - Katzenhai, = Laserhai
 - Laternenfisch, schickt eine Leuchtkugel los, die keinen Schaden verursacht (soll ablenken)
 - Walhai, Explosives; spalten sich auf mehrere Lanes auf
+
+Standard:
+![](https://cdn.discordapp.com/attachments/720258966046900265/728157106145853470/Standard_Shark_Concept.png)
+
+Hammerhead:
+![](https://cdn.discordapp.com/attachments/720258966046900265/728157112701681664/Hammerhead_Concept.png)
+
+Lasershark:
+![](https://cdn.discordapp.com/attachments/720258966046900265/728157118342889482/Lasersharl_Concept.png)
+
+Laternenfisch:
+![](https://cdn.discordapp.com/attachments/720258966046900265/728157115104886814/Laternenfisch_Concept.png)

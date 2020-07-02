@@ -32,4 +32,4 @@
 
 ## 29.06.2020
 - [x] einzelne Projekte für unterschiedliche Gameplays @hannes
-- [ ] issues für gegner @bennet
+- [x] issues für gegner @bennet

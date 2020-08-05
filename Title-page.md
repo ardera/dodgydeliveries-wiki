@@ -1,3 +1,25 @@
+![Title](https://github.com/janekx21/JackTheFishman/wiki/assets/dd3.png)
+
+# How
+## Framework
+Wir nutzen [Jack the Fishman](https://github.com/janekx21/JackTheFishman/wiki/Jack-the-Fishman)
+als Framework, also als Basis, für das Spiel. Es abstrahiert viele Vorgänge. Darunter z.B. die
+Interaktion mit der Grafik API oder das Laden von Ressourcen. Dabei ist das Build System so
+aufgesetzt das DD3 (Dodgy Deliveries 3) als Teilpaket eingebunden ist.
+
+## Issue Management
+Die grund Idee ist es sich **ausschließlich** auf Github zu konzentrieren um Redundanz zu vermeiden.
+Zudem ist alles an einem Ort und gut miteinander verbunden.
+- Wiki
+  - Dokumentation die nicht automatisch generiert ist
+- Issues (Git-Flow)
+  - Tracken von Tasks
+  - Bugs
+- Github Projects
+  - Kanban Board mit Issues
+
+
+# What *(Ideen)*
 ## Idee für ein Story-Spiel
 *Retten in der Zeit*
 ### Gameplay
@@ -41,3 +63,8 @@ Man muss an einen Ort gelangen, an den man sich nur teleportieren kann mit dem G
 ### Map
 ### Gameplay
 Man reist von Camp zu Camp um Quests zu erledigen und Items zu sammeln. Die Reise ist dabei das actionlastige Gameplay. Die Story kann innerhalb der Camps erzählt werden.
+
+# Art Style
+Das Spiel hat einen Stiel mit vielen Pastellfarben wie bie Flip Flappers.
+![Beispiel Graphik](https://images2.alphacoders.com/753/thumb-1920-753003.png)
+

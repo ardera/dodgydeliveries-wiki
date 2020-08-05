@@ -1,6 +1,6 @@
 # Seiten
-[Home](https://github.com/janekx21/JackTheFishman/wiki/Home)
-[Das Team](https://github.com/janekx21/JackTheFishman/wiki/Meet-the-Team)
+- [Home](https://github.com/janekx21/JackTheFishman/wiki/Home)
+- [Das Team](https://github.com/janekx21/JackTheFishman/wiki/Meet-the-Team)
 ### Jack The Fishman 
 - [Einführung](https://github.com/janekx21/JackTheFishman/wiki/Jack-the-Fishman)
 ### Dodgy Deliveries 3
@@ -10,8 +10,8 @@
 - [Die Story](https://github.com/janekx21/JackTheFishman/wiki/Story)
 - [Projekt Status](https://github.com/janekx21/JackTheFishman/wiki/Project-Status-Report)
 ### Misc
-[Protokoll](https://github.com/janekx21/JackTheFishman/wiki/Protokoll)
-[Developer Notes](https://github.com/janekx21/JackTheFishman/wiki/Developer-Notes)
+- [Protokoll](https://github.com/janekx21/JackTheFishman/wiki/Protokoll)
+- [Developer Notes](https://github.com/janekx21/JackTheFishman/wiki/Developer-Notes)
 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

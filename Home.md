@@ -13,5 +13,6 @@
 - [Protokoll](https://github.com/janekx21/JackTheFishman/wiki/Protokoll)
 - [Developer Notes](https://github.com/janekx21/JackTheFishman/wiki/Developer-Notes)
 
-![Krakula Logo](https://github.com/janekx21/JackTheFishman/wiki/assets/krakula-xl.png)
-![Krakula Logo](https://github.com/janekx21/JackTheFishman/wiki/assets/jack-the-fishman.png)
+Krakula Team               |  Jack the Fishman
+:-------------------------:|:-------------------------:
+![Krakula Logo](https://github.com/janekx21/JackTheFishman/wiki/assets/krakula-xl.png) | ![Krakula Logo](https://github.com/janekx21/JackTheFishman/wiki/assets/jack-the-fishman.png)

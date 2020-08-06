@@ -1,3 +1,5 @@
+![Krakula Logo](https://github.com/janekx21/JackTheFishman/wiki/assets/jack-the-fishman.png)
+
 ## What
 Jack the Fishman ist ein 3D game framework.
 

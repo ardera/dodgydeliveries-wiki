@@ -31,6 +31,16 @@ Der Stack sieht im genauen wie folgt aus:
     - IntelliJ IDE (Coding)
     - Blender (3D Modeling)
     - RenderDoc (OpenGL Debugger)
+    
+### Serialisierung
+Wir benutzen [Klaxon](https://github.com/cbeust/klaxon) um unsere K-Klassen (Kotlin Klassen) zu de-/serialisieren.
+Dabei wird aus standardmäßig aus jedem public Member ein JSON key und umgekehrt.
+Dieser Vorgang passiert Rekursiv (Außer bei einem custom Converter).
+Während die Klassen konstruiert werden, muss aus dem JSON Key-Value-Pair eine Konstruktor-Parameter endstehen.
+Um Ressourcen mit dieser Methode zu konstruieren benötigt meine außerdem eine Hilfsklasse.
+Die folgende Abbildung zeigt genau diese Struktur anhand der `Texture` Klasse.
+
+![CD von der Serialisierung](https://github.com/janekx21/JackTheFishman/wiki/assets/cd-jack-the-fishman-serialization.png)
 
 ## Who
 [Meet the Team](https://github.com/janekx21/JackTheFishman/wiki/Meet-the-Team)

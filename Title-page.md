@@ -18,6 +18,11 @@ Zudem ist alles an einem Ort und gut miteinander verbunden.
 - Github Projects
   - Kanban Board mit Issues
 
+## Entity System
+So nennen wir unser komponentenbasiertes System mit dem wir neue Gameplay Features implementieren.
+Es hat genau 3 Schichten: `Scene`, `GameObject` und `Component`.
+
+![ER vom Entity System](https://github.com/janekx21/JackTheFishman/wiki/assets/er-entity-system.png)
 
 # What
 ## Idee Story-Spiel
